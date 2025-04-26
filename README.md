@@ -14,6 +14,7 @@ A simple Unix-like shell written in c++
 - Command history
 - Input/output redirection
 - piping between commands
+- GUI
 
 ## Build
 ```bash
