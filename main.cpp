@@ -76,7 +76,7 @@ int main() {
             if (tokens.size() != 1) {
                 cout << "\n\thelp:\tExpected 1 argument\n\n";
             } else {
-                cout << "\nUSAGE:\n\texit:\t\t\texit the shell\n\tcd [directory]:\t\tmove to [directory]\n\t[shell command]:\trun the command\n\thelp:\t\t\tshow manual\n\n";
+                cout << "\nUSAGE:\n\texit:\t\t\texit the shell\n\tcd [directory]:\t\tmove to [directory]\n\t[external command]:\trun the command\n\thelp:\t\t\tshow manual\n\n";
             }
         }
 
